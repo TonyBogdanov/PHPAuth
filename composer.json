@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=7.0.0",
-		"bjeavons/zxcvbn-php": "^0.4",
+		"mkopinsky/zxcvbn-php": "^4.4.2",
 		"phpmailer/phpmailer": "^6.0",
 	    "google/recaptcha": "^1.2"
 	},
